@@ -1,1 +1,1 @@
-# Spin_Wave_Dispersion_Calculator
+# Spin Wave Dispersion Calculator
